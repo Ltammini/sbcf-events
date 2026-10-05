@@ -4,7 +4,7 @@ window.EVENT_CONFIG = {
   eventName: "Diwali Celebration 2026",
   eventDateLabel: "21-Nov-2026",
   eventTimeLabel: "From 17:30 to 22:00",
-  venueName: "Stichting Cultureel Centrum Mahatma Gandhi",
+  venueName: "Stichting Cultureel Centrum Mahatma Gandhi, Oldegalileën 129, 8922 AC Leeuwarden",
   venueAddress: "Oldegalileën 129, 8922 AC Leeuwarden",
   contactEmail: "Update organizer email",
   whatsappUrl: " https://wa.me/31617932114",
